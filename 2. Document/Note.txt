@@ -1,0 +1,12 @@
+Path in Server: D:\Layout
+
+Hana Credential : 
+	SYSTEM
+	Sapb1hana
+SAP B1 Database: EXEDY_LIVE
+	  manager
+	  1234
+
+Report Path in SAP B1:
+   Statement of account - Under Financial-> Financial Report
+   Stock Aging Report - Under Inventory -> Inventoery Report
